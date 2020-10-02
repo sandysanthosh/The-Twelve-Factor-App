@@ -30,17 +30,17 @@
   
 #### Spring Cloud Microservices:
 
+* Service Registry using Eureka
+
 * Client Side load balancer - Ribbon
 
+* Fault Tolerance - Hystrix
+
+* Feign Client- Easy Intergartion 
+
+* Router and ZUUL - Cross Cutting Concerns
+
 * Distributed Tracking - Sluth and Zipkin
-
-* Fault Tolerance using Hystrix
-
-* Feign Client
-
-* Router and ZUUL
-
-* Service Registry using Eureka
 
 * Spring Cloud BUS
 
