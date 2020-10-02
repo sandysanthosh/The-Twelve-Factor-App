@@ -28,7 +28,7 @@
   * Admin processes = Run admin/management tasks as one-off processes
   
   
-#### Microservices:
+#### Spring Cloud Microservices:
 
 * Client Side load balancer - Ribbon
 
